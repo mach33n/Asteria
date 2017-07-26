@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="shutterstock_87062285-pic905-895x505-40083" size="10.000000 5.631285" />
+    <ImageTarget name="water-life-crop" size="10.000000 6.023669" />
+    <ImageTarget name="160303230032-ecuador-volcano-tungurahua-super-169" size="10.000000 5.627273" />
+    <ImageTarget name="Structural-formula-for-x3b1-D-glucose" size="10.000000 8.760000" />
+    <ImageTarget name="11" size="10.000000 3.393574" />
+    <ImageTarget name="mapzen-terrain-tile-example" size="10.000000 5.908360" />
+    <ImageTarget name="maxresdefault" size="10.000000 5.625000" />
+    <ImageTarget name="Oxygen-L" size="10.000000 9.524618" />
+  </Tracking>
+</QCARConfig>

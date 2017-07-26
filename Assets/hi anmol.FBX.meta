@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 06038ddf7c4755d4696c7321d456af9e
+timeCreated: 1499908736
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dummy001
+    100002: earth
+    100004: Ellipse001
+    100006: //RootNode
+    100008: jupiter
+    100010: jupiter orbit
+    100012: jupiter orbit 1
+    100014: mars
+    100016: mars orbit
+    100018: marsactual
+    100020: mercury
+    100022: mercury 1
+    100024: moon
+    100026: neptune
+    100028: neptune orbit
+    100030: saturn
+    100032: saturn orbit
+    100034: sun
+    100036: Tube001
+    100038: Tube002
+    100040: uranus
+    100042: uranus orbit
+    100044: venus
+    100046: venus orbit
+    400000: Dummy001
+    400002: earth
+    400004: Ellipse001
+    400006: //RootNode
+    400008: jupiter
+    400010: jupiter orbit
+    400012: jupiter orbit 1
+    400014: mars
+    400016: mars orbit
+    400018: marsactual
+    400020: mercury
+    400022: mercury 1
+    400024: moon
+    400026: neptune
+    400028: neptune orbit
+    400030: saturn
+    400032: saturn orbit
+    400034: sun
+    400036: Tube001
+    400038: Tube002
+    400040: uranus
+    400042: uranus orbit
+    400044: venus
+    400046: venus orbit
+    2300000: earth
+    2300002: jupiter
+    2300004: mars
+    2300006: mercury
+    2300008: moon
+    2300010: neptune
+    2300012: saturn
+    2300014: sun
+    2300016: Tube001
+    2300018: Tube002
+    2300020: uranus
+    2300022: venus
+    3300000: earth
+    3300002: jupiter
+    3300004: mars
+    3300006: mercury
+    3300008: moon
+    3300010: neptune
+    3300012: saturn
+    3300014: sun
+    3300016: Tube001
+    3300018: Tube002
+    3300020: uranus
+    3300022: venus
+    4300000: mars
+    4300002: venus
+    4300004: mercury
+    4300006: jupiter
+    4300008: saturn
+    4300010: uranus
+    4300012: neptune
+    4300014: sun
+    4300016: earth
+    4300018: moon
+    4300020: Tube001
+    4300022: Tube002
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

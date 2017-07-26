@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/MainMenu.unity
+    guid: 01dc2b40758e1b44db78034eb8bf400e
+  - enabled: 0
+    path: Assets/Augmented Reality Scene.unity
+    guid: 7dc47a14b5a73264f80f009bdd05f66d
+  - enabled: 0
+    path: Assets/InteractionsGrowing.unity
+    guid: 9a02ea5b3683ac843a6ca18d557686d5
+  - enabled: 1
+    path: Assets/LatestSpaceModel.unity
+    guid: 9e1a99ed8de40df4f9ab9ebbf11ab84a
